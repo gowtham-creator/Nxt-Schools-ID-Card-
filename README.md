@@ -8,7 +8,7 @@ Early Next.js scaffold of a school ID card tool: member records, Excel/CSV impor
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.2-0B3D6B?style=for-the-badge&labelColor=08263F)](https://nextjs.org) [![React](https://img.shields.io/badge/React-19.2-1565A0?style=for-the-badge&labelColor=08263F)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-5-0EA5E9?style=for-the-badge&labelColor=08263F)](https://www.typescriptlang.org) [![Tailwind](https://img.shields.io/badge/Tailwind-4-0B3D6B?style=for-the-badge&labelColor=08263F)](https://tailwindcss.com) [![Supabase](https://img.shields.io/badge/Supabase-2.108-1565A0?style=for-the-badge&labelColor=08263F)](https://supabase.com)
 
-![language](https://img.shields.io/badge/language-JavaScript-1565A0?style=flat-square&labelColor=08263F) ![updated](https://img.shields.io/badge/updated-2026--07--02-0B3D6B?style=flat-square&labelColor=08263F)
+![language](https://img.shields.io/badge/language-JavaScript-1565A0?style=flat-square&labelColor=08263F) ![updated](https://img.shields.io/badge/updated-2026--11--04-0B3D6B?style=flat-square&labelColor=08263F)
 
 </div>
 
